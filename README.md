@@ -1,6 +1,6 @@
 Hello, I'm @perseus1st, a second-year Electrical Engineering student at McGill University, aspiring to join Honours and possibly even a minor in physics.
 
-I'm currently interested in fusion energy, nuclear fission, power engineering, computational physics, and simulation.
+I'm interested in fusion energy, nuclear fission, power engineering, computational physics, and simulation.
 
 Currently, I'm working on developing Syracuse, a particle-in-cell plasma physics simulator, built in C++ and OpenGL
 
