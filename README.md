@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @perseus1st
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ... coding
-- 📫 How to reach me ... words
+Hello, I'm @perseus1st, a second-year Electrical Engineering student at McGill University, aspiring to join Honours and possibly even a minor in physics.
+
+I'm currently interested in fusion energy, nuclear fission, power engineering, computational physics, and simulation.
+
+Currently, I'm working on developing Syracuse, a particle-in-cell plasma physics simulator, built in C++ and OpenGL
 
 <!---
 perseus1st/perseus1st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
